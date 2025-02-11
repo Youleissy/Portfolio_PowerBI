@@ -1,6 +1,6 @@
-# Ecommerce Project 
+# Project: Ecommerce Olist
 
-## Explanation
+## Description
 
 This was the final project of business Intelligence diploma. I loaded and transformed the data with pentaho and the final tables were allocate in PostgreSQL.
 
