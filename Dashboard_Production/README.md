@@ -1,5 +1,5 @@
 ##Production Report in PowerBI
-this was the first oficially Dashboard made by PowerBI
+
 #Description
 
 These  dashboards haves 2 productions report from LAYT INTERNATIONAL COMPANY (free dataset).Both of them, show category and satatus performance, analyze amount of orders, production yield, percentage of  rejected orders and orders by categories.
